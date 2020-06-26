@@ -18,4 +18,4 @@ analyzed on the cleaned data.
 - Then, two diffrent approach and two different algorithm for each
 approach are applied and results are shown as "Test Scores".
 
-- You can check [preprocessing_and_models.ipynb](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/preprocessing_and_models.ipynb) to see the details and comments.
+- You can check [**preprocessing_and_models.ipynb**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/preprocessing_and_models.ipynb) to see the details and comments.
