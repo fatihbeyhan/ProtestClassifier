@@ -19,3 +19,7 @@ analyzed on the cleaned data.
 approach are applied and results are shown as "Test Scores".
 
 - You can check [**preprocessing_and_models.ipynb**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/preprocessing_and_models.ipynb) to see the details and comments.
+
+
+
+For more details on this project, check out [**the project report**](https://github.com/fatihbeyhan/ProtestClassifier/tree/master/report)!
