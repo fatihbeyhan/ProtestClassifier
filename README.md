@@ -8,7 +8,7 @@
 URL and saved in a csv.
 
 - You can check [**extract_texts.ipynb**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/extract_texts.ipynb) notebook to see how they are extracted
-and [**extracted_data.csv**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/extracted_data.csv) to see raw data.
+and [**extracted_data.csv**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/data/extracted_data.csv) to see raw data.
 
 ## 2- EDA, Preporcessing & Models
 
