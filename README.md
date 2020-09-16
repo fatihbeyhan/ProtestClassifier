@@ -1,4 +1,4 @@
-# Protest Classifer For KUSRP-2020 Task 1
+# Protest Classifer
 
 **This mini-project aims to classify the given document (news) regarding to if it is about a protest or not. This mini project consist of 2 main parts.**
 
