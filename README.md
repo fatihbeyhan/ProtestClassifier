@@ -7,8 +7,7 @@
 - In the first part, news from **The Hindu** are extracted from their given
 URL and saved in a csv.
 
-- You can check [**extract_texts.ipynb**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/scripts/extract_texts.ipynb) notebook to see how they are extracted
-and [**extracted_data.csv**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/data/extracted_data.csv) to see raw data.
+- You can check [**extract_texts.ipynb**](https://github.com/fatihbeyhan/Protest_Classifier/blob/master/scripts/extract_texts.ipynb) notebook to see how they are extracted.
 
 ## 2- EDA, Preporcessing & Models
 
@@ -23,3 +22,8 @@ approach are applied and results are shown as "Test Scores".
 
 
 For more details on this project, check out [**the project report**](https://github.com/fatihbeyhan/ProtestClassifier/tree/master/paper)!
+
+
+***
+Due to copyright issues, we are not allowed to share the dataset we are working on publicly. However, if you are interested on the work and dataset feel free to contact.
+***
