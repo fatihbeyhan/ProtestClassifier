@@ -25,5 +25,5 @@ For more details on this project, check out [**the project report**](https://git
 
 
 ***
-Due to copyright issues, we are not allowed to share the dataset we are working on publicly. However, if you are interested on the work and dataset feel free to contact.
+Due to copyright issues, we are not allowed to share the dataset. However, if you are interested on the work and dataset feel free to contact.
 ***
